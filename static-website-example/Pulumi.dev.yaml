@@ -1,0 +1,5 @@
+config:
+  aws:region: eu-central-1
+  static-website-example:errorDocument: error.html
+  static-website-example:indexDocument: index.html
+  static-website-example:path: ./www
